@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Firebase Authentication</string>
+
+    <string name="nameSurname">Name - Surname</string>
+    <string name="email">E-Mail</string>
+    <string name="welcome">Welcome.</string>
+    <string name="logout">Log Out</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="loginPageName">ENTRY PAGE</string>
+    <string name="hintEmail">E-Mail Address</string>
+    <string name="hintPassword">Password</string>
+    <string name="hintPasswordConf">Password Again</string>
+    <string name="login">Log In</string>
+    <string name="forgetPassword">Forgot your password?</string>
+    <string name="register">Register</string>
+    <string name="googleLogin">Sign in with Google</string>
+    <string name="resetPasswordPageName">RESET PASSWORD PAGE</string>
+    <string name="resetPassword">Reset Password</string>
+    <string name="registerPageName">REGISTER PAGE</string>
+    <string name="haveAnAccount">Do you have an account?</string>
+    <string name="updateProfilePageName">PROFILE UPDATE PAGE</string>
+
+    <string name="required">Required.</string>
+    <string name="fillAllFields">Please fill out all fields.</string>
+    <string name="titleLogOut">Logging out.</string>
+    <string name="pleaseWait">Please wait…</string>
+    <string name="titleLogIn">Logging in</string>
+    <string name="confirmEmail">Confirm your e-mail.</string>
+    <string name="authFailed">Authentication failed.</string>
+    <string name="sending">Sending</string>
+    <string name="resetPasswordMessage">A password reset link is sent to your email address. Please wait…</string>
+    <string name="successResetPasswordMessage">The password reset link has been successfully sent to your email address.</string>
+    <string name="failedResetPasswordMessage">The password reset link was not successfully sent to your email address. Please try again later.</string>
+    <string name="dontMatchMessage">Passwords do not match! Check.</string>
+    <string name="creatingRegister">Creating a register</string>
+    <string name="failedFailedUpdateProfile">Failed to update profile.</string>
+    <string name="failedFailedUpdatePassword">Failed to update password.</string>
+</resources>

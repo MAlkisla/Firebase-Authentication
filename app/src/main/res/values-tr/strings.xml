@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Firebase Authentication</string>
+
+    <string name="nameSurname">Ad - Soyad</string>
+    <string name="email">E-Posta</string>
+    <string name="welcome">Hoşgeldiniz.</string>
+    <string name="logout">Çıkış Yap</string>
+    <string name="update_profile">Profili Güncelle</string>
+    <string name="loginPageName">GİRİŞ SAYFASI</string>
+    <string name="hintEmail">E-Posta Adresi</string>
+    <string name="hintPassword">Şifre</string>
+    <string name="hintPasswordConf">Şifre Tekrar</string>
+    <string name="login">Giriş Yap</string>
+    <string name="forgetPassword">Şifreni mi unuttun?</string>
+    <string name="register">Kayıt Ol</string>
+    <string name="googleLogin">Google ile oturum aç</string>
+    <string name="resetPasswordPageName">PAROLA SIFIRLAMA SAYFASI</string>
+    <string name="resetPassword">Parolayı Sıfırla</string>
+    <string name="registerPageName">KAYIT SAYFASI</string>
+    <string name="haveAnAccount">Hesabın var mı?</string>
+    <string name="updateProfilePageName">PROFİL GÜNCELLEME SAYFASI</string>
+
+    <string name="required">Zorunlu.</string>
+    <string name="fillAllFields">Lütfen tüm alanları doldurun.</string>
+    <string name="titleLogOut">Oturum Kapatılıyor.</string>
+    <string name="pleaseWait">Lütfen Bekleyin…</string>
+    <string name="titleLogIn">Oturum açılıyor</string>
+    <string name="confirmEmail">E-Postanızı onaylayınız.</string>
+    <string name="authFailed">Kimlik doğrulama başarısız oldu.</string>
+    <string name="sending">Gönderiliyor</string>
+    <string name="resetPasswordMessage">Parola sıfırlama linki email adresinize gönderiliyor. Lütfen Bekleyin… </string>
+    <string name="successResetPasswordMessage">Parola sıfırlama linki email adresinize başarıyla gönderildi.</string>
+    <string name="failedResetPasswordMessage">Parola sıfırlama linki email adresinize başarıyla gönderilemedi. Lütfen daha sonra tekrar deneyiniz.</string>
+    <string name="dontMatchMessage">Şifreler uyuşmuyor! Kontrol et.</string>
+    <string name="creatingRegister">Kayıt oluşturuluyor</string>
+    <string name="failedFailedUpdateProfile">Profil güncellenemedi.</string>
+    <string name="failedFailedUpdatePassword">Şifre güncellenemedi.</string>
+</resources>
